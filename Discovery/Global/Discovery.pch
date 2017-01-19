@@ -1,0 +1,15 @@
+//
+//  Discovery.pch
+//  Discovery
+//
+//  Created by faxianbar on 2017/1/19.
+//  Copyright © 2017年 faxianbar. All rights reserved.
+//
+
+#ifndef Discovery_pch
+#define Discovery_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Discovery_pch */

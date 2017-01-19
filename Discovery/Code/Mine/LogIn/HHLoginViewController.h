@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HHLoginViewController.h
 //  Discovery
 //
 //  Created by faxianbar on 2017/1/19.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HHLoginViewController : UIViewController
 
 @end
-
